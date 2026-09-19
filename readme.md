@@ -1,8 +1,8 @@
 # **Berbagi pengetahuan seputar linux**
-#### Diinisiasi oleh Tengkoru
+### Diinisiasi oleh Tengkoru
 
 ## Tujuan
-Sebagai catatan pribadi juga sebagai cara saya untuk berkontribusi terhadap komunitas linux di Indonesia.
+Sebagai catatan pribadi dan juga sebagai bentuk kontribusi terhadap komunitas linux di Indonesia.
 
 Saya harap kedepannya catatan ini akan bermanfaat bagi siapapun yang tertarik menggunakan linux untuk penggunaan sehari-hari maupun untuk pekerjaan kantoran mereka.
 
